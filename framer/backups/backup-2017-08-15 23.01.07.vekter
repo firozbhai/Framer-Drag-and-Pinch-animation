@@ -1,0 +1,96 @@
+{
+  "version" : 2,
+  "root" : {
+    "id" : "~kB:F!)l",
+    "__class" : "CanvasNode",
+    "parentid" : null,
+    "children" : [
+      {
+        "id" : "n,)Da4yU",
+        "__class" : "FrameNode",
+        "x" : 0,
+        "parentid" : "~kB:F!)l",
+        "width" : 375,
+        "y" : 0,
+        "deviceType" : "apple-iphone-7-black",
+        "type" : "apple-iphone-7-black",
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
+        "children" : [
+          {
+            "radiusBottomLeft" : 10,
+            "rotation" : 0,
+            "__class" : "RectangleNode",
+            "id" : "a#r*I)YE",
+            "fillColor" : "rgb(255, 255, 255)",
+            "aspectRatioLocked" : true,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : null,
+            "locked" : false,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "radius" : 10,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(94, 94, 94, 0.2)",
+                "enabled" : true,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 10
+              }
+            ],
+            "centerAnchorX" : 0.5,
+            "borderPerSide" : false,
+            "fillType" : "color",
+            "radiusBottomRight" : 10,
+            "children" : [
+
+            ],
+            "fillEnabled" : true,
+            "parentid" : "n,)Da4yU",
+            "borderRight" : 1,
+            "name" : "box",
+            "height" : 139,
+            "borderWidth" : 1,
+            "top" : 244,
+            "borderTop" : 1,
+            "radiusTopRight" : 10,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : null,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.4700149925037481,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 10,
+            "targetName" : "box",
+            "bottom" : null,
+            "width" : 139
+          }
+        ],
+        "height" : 667,
+        "fillType" : "color",
+        "targetName" : null,
+        "fillColor" : "rgb(0, 132, 255)",
+        "name" : null
+      }
+    ]
+  }
+}
